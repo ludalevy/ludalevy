@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ludalevy...or Luda:)
-- 👀 I’m interested in mathematics, data learning, beauty of a data
+- 👀 I’m interested in mathematics, data learning, LLM.....
 - 🌱 I’m currently learning many things:)
-- 💞️ I’m looking to collaborate on saving th world:)
+- 💞️ I’m looking to collaborate on saving the world:)
 - 📫 How to reach me: luda.levy@gmail.com
 
 <!---
